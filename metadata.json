@@ -1,0 +1,6 @@
+{
+  "name": "Playbeat Digital Subscription Price Analyzer",
+  "description": "Analyze average prices, compare marketplace offers, and calculate pricing for streaming accounts, social engagement, and digital subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
